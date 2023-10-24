@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Summary/static/css/main.db754728.css",
-    "main.js": "/Summary/static/js/main.59073843.js",
+    "main.css": "/Summary/static/css/main.3dff6e4c.css",
+    "main.js": "/Summary/static/js/main.6fe5b9ec.js",
     "static/media/laptop.jpg": "/Summary/static/media/laptop.a2e9a643c9d210c132b1.jpg",
+    "static/media/projectAvto.png": "/Summary/static/media/projectAvto.d30553f418195fb0750c.png",
+    "static/media/healthyHub.png": "/Summary/static/media/healthyHub.8fdab35161ac1040677b.png",
     "index.html": "/Summary/index.html",
     "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.2cce391eca52f2a32e904213e48c5994.svg",
-    "main.db754728.css.map": "/Summary/static/css/main.db754728.css.map",
-    "main.59073843.js.map": "/Summary/static/js/main.59073843.js.map"
+    "main.3dff6e4c.css.map": "/Summary/static/css/main.3dff6e4c.css.map",
+    "main.6fe5b9ec.js.map": "/Summary/static/js/main.6fe5b9ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.db754728.css",
-    "static/js/main.59073843.js"
+    "static/css/main.3dff6e4c.css",
+    "static/js/main.6fe5b9ec.js"
   ]
 }
