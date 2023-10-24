@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Summary/static/css/main.7acaea2f.css",
-    "main.js": "/Summary/static/js/main.07d3183d.js",
+    "main.css": "/Summary/static/css/main.db754728.css",
+    "main.js": "/Summary/static/js/main.59073843.js",
+    "static/media/laptop.jpg": "/Summary/static/media/laptop.a2e9a643c9d210c132b1.jpg",
     "index.html": "/Summary/index.html",
-    "main.7acaea2f.css.map": "/Summary/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Summary/static/js/main.07d3183d.js.map"
+    "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.2cce391eca52f2a32e904213e48c5994.svg",
+    "main.db754728.css.map": "/Summary/static/css/main.db754728.css.map",
+    "main.59073843.js.map": "/Summary/static/js/main.59073843.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.db754728.css",
+    "static/js/main.59073843.js"
   ]
 }
