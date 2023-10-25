@@ -8,10 +8,11 @@ import images from '../img/ressume/images.png';
 import phonebook from '../img/ressume/phonebook.png';
 import studio from '../img/ressume/studio.png';
 import clock from '../img/ressume/clock.png';
+import linkedin from '../img/footer/linkedin.svg'
 
 export const App = () => {
   return (
-    <div>
+    <>
       <header className="header">
         <h1 className="headerTitle">Marii Semenencko</h1>
         <p className="headerSubtitle">
@@ -205,6 +206,46 @@ export const App = () => {
           </div>
         </section>
       </main>
-    </div>
+      <footer className="footer">
+      <div className="container">
+
+      <div className="footerRow">
+          <div className="footerColum footerCopyright">
+            <div className="footerCopyrightName">&copy Marii Semenenko</div>
+            <p>Front-end Developer</p>
+          </div>
+          </div>
+
+          <div className="footerColum footerSocial">
+            <p>My social media profiles:</p>
+            <div className="footerIcons">
+              <a href="https://www.linkedin.com/in/semenenkomaria/"
+                ><img
+                  className="footer-svg-icons"
+                  src={linkedin}
+                  alt=""
+              /></a>
+              <a href="https://github.com/MariySemenenko"
+                ><img
+                  // class="footerSvgIcons"
+                  src="./img/social-icons/github.svg"
+                  alt=""
+                  width="25"
+                  height="28"
+              /></a>
+              <a href="https://t.me/Semenenko_Maria"
+                ><img
+                  class="footer-svg-icons"
+                  src="./img/social-icons/telegram.svg"
+                  alt=""
+                  width="25"
+                  height="28"
+              /></a>
+            </div>
+          </div>
+
+      </div>
+      </footer>
+    </>
   );
 };
