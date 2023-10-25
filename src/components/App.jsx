@@ -1,6 +1,14 @@
 import chevronDown from '../img/header/chevronDown.svg';
-import healthyHub from '../img/ressume/healthyHub.png';
+import healthy from '../img/ressume/healthy.png';
 import projectAvto from '../img/ressume/projectAvto.png';
+import book from '../img/ressume/book.png';
+import iceCream from '../img/ressume/iceCream.png';
+import movies from '../img/ressume/movies.png';
+import images from '../img/ressume/images.png';
+import phonebook from '../img/ressume/phonebook.png';
+import studio from '../img/ressume/studio.png';
+import clock from '../img/ressume/clock.png';
+
 export const App = () => {
   return (
     <div>
@@ -26,7 +34,7 @@ export const App = () => {
                   className="cardLink"
                   href="https://enital.github.io/healthy_hub/"
                 >
-                  <img className="cardImg" src={healthyHub} alt="" />
+                  <img className="cardImg" src={healthy} alt="" />
                   <h3 className="cardTitle">Healthy Hub</h3>
                   <p>[React, Redux, Node.js, Rest API]</p>
                   <p>
@@ -37,6 +45,7 @@ export const App = () => {
                   </p>
                 </a>
               </li>
+
               <li className="card">
                 <a
                   target="_blank"
@@ -53,6 +62,142 @@ export const App = () => {
                     Project_avto is a convenient program designed for companies
                     offering car rental services. It is possible to choose any
                     brand of car and search by various parameters.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://aggenov.github.io/bookshelf/"
+                >
+                  <img className="cardImg" src={book} alt="" />
+                  <h3 className="cardTitle">Bookshelf</h3>
+                  <p>[HTML, CSS, JS, Fetch API, Parcel]</p>
+                  <p>
+                    Bookshelf is a website for managing and tracking the books
+                    in your collection. You can add, edit, and delete books,
+                    mark them as read or unread, and search for books by various
+                    criteria, such as author, genre, or title.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://aggenov.github.io/ice-cream/"
+                >
+                  <img className="cardImg" src={iceCream} alt="" />
+                  <h3 className="cardTitle">Ice-cream</h3>
+                  <p>[HTML, CSS, JS, Parcel]</p>
+                  <p>
+                    "Ice-Cream" is an online store for buying fresh and
+                    delicious ice cream. The store offers a wide selection of
+                    different flavors and types of ice cream, which can be
+                    ordered in a convenient way for you and delivered to your
+                    home.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://mariysemenenko.github.io/goit-react-hw-05-movies/"
+                >
+                  <img className="cardImg" src={movies} alt="" />
+                  <h3 className="cardTitle">Movies</h3>
+                  <p>
+                    [HTML, CSS, JS, Parcel, Axios, React-dom, React-router-dom]
+                  </p>
+                  <p>
+                    This is a movie search and selection website. You can search
+                    for movies by title. The site provides information about
+                    movies, including reviews, ratings, and trailers.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://mariysemenenko.github.io/goit-react-hw-03-image-finder/"
+                >
+                  <img className="cardImg" src={images} alt="" />
+                  <h3 className="cardTitle">Image-finder</h3>
+                  <p>[HTML, CSS, JS, Parcel, Axios, React-dom]</p>
+                  <p>
+                    "Image Finder" is a website for searching and viewing a
+                    large collection of images. You can search for images by
+                    keywords and view them, as well as download and use them for
+                    various purposes.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://mariysemenenko.github.io/goit-react-hw-008-phonebook/"
+                >
+                  <img className="cardImg" src={phonebook} alt="" />
+                  <h3 className="cardTitle">Phonebook</h3>
+                  <p>
+                    [HTML, CSS, JS, Parcel, Axios, React-dom, React-router-dom,
+                    Redux]
+                  </p>
+                  <p>
+                    "Phonebook" is an online application for saving and managing
+                    your list of contacts and phone numbers. You can add, edit
+                    and delete contacts, specify their names and phone numbers.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://mariysemenenko.github.io/goit-markup-hw-07/index.html"
+                >
+                  <img className="cardImg" src={studio} alt="" />
+                  <h3 className="cardTitle">Web studio</h3>
+                  <p>[HTML, JS, GIT, CSS]</p>
+                  <p>
+                    "Web Studio" is a website of a studio that specializes in
+                    website development and design. The studio offers website
+                    creation, logo design, graphic design and other web
+                    services.
+                  </p>
+                </a>
+              </li>
+
+              <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://mariysemenenko.github.io/Times/"
+                >
+                  <img className="cardImg" src={clock} alt="" />
+                  <h3 className="cardTitle">Clock</h3>
+                  <p>[HTML, JS, CSS]</p>
+                  <p>
+                    "Clock" on the site is a web element that shows the current
+                    time. The clock can be used to track time on a website or
+                    for decorative purposes.
                   </p>
                 </a>
               </li>

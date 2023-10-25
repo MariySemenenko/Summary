@@ -37,7 +37,7 @@ ol {
 
 a {
   text-decoration: none;
-  color: #000000;
+  color: #9c9c9c;
 }
 
 img {
@@ -150,7 +150,7 @@ body {
 }
 
 .cardLink:hover {
-  color: #9c9c9c;
+  color: #000000;
 }
 .cardImg {
   margin-bottom: 20px;
