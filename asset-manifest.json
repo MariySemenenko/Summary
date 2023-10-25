@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Summary/static/css/main.888ac9d6.css",
-    "main.js": "/Summary/static/js/main.d1a17cac.js",
+    "main.css": "/Summary/static/css/main.46d543fb.css",
+    "main.js": "/Summary/static/js/main.a74f8c54.js",
     "static/media/laptop.jpg": "/Summary/static/media/laptop.a2e9a643c9d210c132b1.jpg",
     "static/media/images.png": "/Summary/static/media/images.eb1737a9295066e946e1.png",
     "static/media/studio.png": "/Summary/static/media/studio.0caf852934a5190649cf.png",
@@ -12,13 +12,14 @@
     "static/media/phonebook.png": "/Summary/static/media/phonebook.245c0f6cf8fb527ee3b6.png",
     "static/media/healthy.png": "/Summary/static/media/healthy.539973c407d927da8268.png",
     "static/media/clock.png": "/Summary/static/media/clock.03fb2e9ca1460bac533f.png",
+    "static/media/linkedin.svg": "/Summary/static/media/linkedin.dedb92f32bd27fafa125f16a85c604f6.svg",
     "index.html": "/Summary/index.html",
-    "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.2cce391eca52f2a32e904213e48c5994.svg",
-    "main.888ac9d6.css.map": "/Summary/static/css/main.888ac9d6.css.map",
-    "main.d1a17cac.js.map": "/Summary/static/js/main.d1a17cac.js.map"
+    "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.4ebc09ca2ab8df857a7e118834e83c66.svg",
+    "main.46d543fb.css.map": "/Summary/static/css/main.46d543fb.css.map",
+    "main.a74f8c54.js.map": "/Summary/static/js/main.a74f8c54.js.map"
   },
   "entrypoints": [
-    "static/css/main.888ac9d6.css",
-    "static/js/main.d1a17cac.js"
+    "static/css/main.46d543fb.css",
+    "static/js/main.a74f8c54.js"
   ]
 }
