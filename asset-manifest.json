@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/Summary/static/css/main.3dff6e4c.css",
-    "main.js": "/Summary/static/js/main.6fe5b9ec.js",
+    "main.css": "/Summary/static/css/main.888ac9d6.css",
+    "main.js": "/Summary/static/js/main.d1a17cac.js",
     "static/media/laptop.jpg": "/Summary/static/media/laptop.a2e9a643c9d210c132b1.jpg",
+    "static/media/images.png": "/Summary/static/media/images.eb1737a9295066e946e1.png",
+    "static/media/studio.png": "/Summary/static/media/studio.0caf852934a5190649cf.png",
     "static/media/projectAvto.png": "/Summary/static/media/projectAvto.d30553f418195fb0750c.png",
-    "static/media/healthyHub.png": "/Summary/static/media/healthyHub.8fdab35161ac1040677b.png",
+    "static/media/book.png": "/Summary/static/media/book.d3b6d43e010d99fad9d4.png",
+    "static/media/iceCream.png": "/Summary/static/media/iceCream.492679f91efdf01a1bec.png",
+    "static/media/movies.png": "/Summary/static/media/movies.50bd83e5877cf02c636d.png",
+    "static/media/phonebook.png": "/Summary/static/media/phonebook.245c0f6cf8fb527ee3b6.png",
+    "static/media/healthy.png": "/Summary/static/media/healthy.539973c407d927da8268.png",
+    "static/media/clock.png": "/Summary/static/media/clock.03fb2e9ca1460bac533f.png",
     "index.html": "/Summary/index.html",
     "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.2cce391eca52f2a32e904213e48c5994.svg",
-    "main.3dff6e4c.css.map": "/Summary/static/css/main.3dff6e4c.css.map",
-    "main.6fe5b9ec.js.map": "/Summary/static/js/main.6fe5b9ec.js.map"
+    "main.888ac9d6.css.map": "/Summary/static/css/main.888ac9d6.css.map",
+    "main.d1a17cac.js.map": "/Summary/static/js/main.d1a17cac.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dff6e4c.css",
-    "static/js/main.6fe5b9ec.js"
+    "static/css/main.888ac9d6.css",
+    "static/js/main.d1a17cac.js"
   ]
 }
