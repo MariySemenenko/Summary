@@ -10,7 +10,7 @@ import studio from '../img/ressume/studio.png';
 import clock from '../img/ressume/clock.png';
 import linkedin from '../img/footer/linkedin.svg';
 import github from '../img/footer/github.svg';
-import telegram from '../img/footer/telegram.svg'
+import telegram from '../img/footer/telegram.svg';
 
 export const App = () => {
   return (
@@ -208,7 +208,7 @@ export const App = () => {
           </div>
         </section>
       </main>
-      
+
       <footer className="footer">
         <div className="container">
           <div className="footerRow">
@@ -216,35 +216,30 @@ export const App = () => {
               <div className="footerCopyrightName">&copy Marii Semenenko</div>
               <p>Front-end Developer</p>
             </div>
-         
 
-          <div className="footerColum footerSocial">
-            <p>My social media profiles:</p>
-            <div className="footerIcons">
-              <a href="https://www.linkedin.com/in/semenenkomaria/">
-                <img className="footerSvgIcons" src={linkedin} alt="" />
-              </a>
-              <a href="https://github.com/MariySemenenko">
-                <img src={github} alt="" />
-              </a>
-              <a href="https://t.me/Semenenko_Maria">
-                <img src={telegram} alt="" />
-              </a>
-            </div>
+            <div className="footerColum footerSocial">
+              <p>My social media profiles:</p>
+              <div className="footerIcons">
+                <a href="https://www.linkedin.com/in/semenenkomaria/">
+                  <img className="footerSvgIcons" src={linkedin} alt="" />
+                </a>
+                <a href="https://github.com/MariySemenenko">
+                  <img src={github} alt="" />
+                </a>
+                <a href="https://t.me/Semenenko_Maria">
+                  <img src={telegram} alt="" />
+                </a>
+              </div>
             </div>
             <div className="footerColum footerContacts">
-            <a
-              href="https://www.linkedin.com/in/semenenkomaria/"
-              className="footerHover"
-              >Contact LinkedIn</a
-            >
-            <p>
-            Ready to build your own custom website? Contact me today!
-            </p>
-           
-          </div>
-
-        
+              <a
+                href="https://www.linkedin.com/in/semenenkomaria/"
+                className="footerHover"
+              >
+                Contact LinkedIn
+              </a>
+              <p>Ready to build your own custom website? Contact me today!</p>
+            </div>
           </div>
         </div>
       </footer>
