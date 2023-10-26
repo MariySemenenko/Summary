@@ -18,7 +18,7 @@ export const App = () => {
       <header className="header">
         <h1 className="headerTitle">Marii Semenencko</h1>
         <p className="headerSubtitle">
-          Front-end Developer (Java Script / HTML / CSS / React / Node.js)
+          Front-end backend Developer (Java Script / HTML / CSS / React / Node.js)
         </p>
         <p className="headerSubtitle">https://github.com/MariySemenenko</p>
         <a href="#ressume">
