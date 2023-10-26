@@ -15,16 +15,17 @@ import telegram from '../img/footer/telegram.svg';
 export const App = () => {
   return (
     <>
-      <header className="header container">
+      <header className="header">
+       
         <h1 className="headerTitle">Marii Semenencko</h1>
-        <p className="headerSubtitle headerDeveloper">
+        <p className="headerSubtitle">
           Front-end backend Developer (Java Script / HTML / CSS / React /
           Node.js)
         </p>
         <a className="headerSubtitle" href="https://github.com/MariySemenenko">
           https://github.com/MariySemenenko
         </a>
-
+     
         <a href="#ressume">
           <img className="chevronDown" src={chevronDown} alt="Arrow up" />
         </a>
