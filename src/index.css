@@ -95,6 +95,15 @@ body {
   text-transform: uppercase;
   color: #000000;
 }
+.githubLink {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #000000;
+}
 
 .chevronDown {
   width: 30px;
@@ -229,4 +238,36 @@ body {
 .footerHover:hover {
   background-color: rgba(0, 0, 0, 0.5);
   color: #f4f5f6;
+}
+
+@media screen and (max-width: 768px) {
+  .headerTitle {
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: #000000;
+    margin: 10px 0;
+  }
+
+  .headerSubtitle {
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: #000000;
+    margin: 10px 0;
+
+    width: 300px;
+  }
+  .githubLink {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #000000;
+
+  
+    margin: 0 auto;
+  }
 }

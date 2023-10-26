@@ -22,7 +22,7 @@ export const App = () => {
           Front-end backend Developer (Java Script / HTML / CSS / React /
           Node.js)
         </p>
-        <a className="headerSubtitle" href="https://github.com/MariySemenenko">
+        <a className="githubLink" href="https://github.com/MariySemenenko">
           https://github.com/MariySemenenko
         </a>
      
