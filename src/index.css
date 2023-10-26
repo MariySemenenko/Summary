@@ -67,9 +67,9 @@ body {
   background-color: #f4f5f6;
 
   background-image: linear-gradient(
-      /* rgba(30, 71, 118, 0.75),
-      rgba(30, 71, 118, 0.75),
-      rgba(21, 84, 157, 0.75) */
+      rgba(227, 234, 234, 0.75),
+      rgba(227, 234, 234, 0.75),
+      rgba(21, 84, 157, 0.75)
     ),
     url('./img/header/laptop.jpg');
 
