@@ -172,8 +172,15 @@ body {
 .footer {
   padding-top: 45px;
   padding-bottom: 130px;
-  background-color: #f4f5f6;
-  /* color: #ffffff; */
+  /* background-color: #f4f5f6; */
+
+
+
+  background-image: linear-gradient(
+      rgba(227, 234, 234, 0.75),
+      rgba(195, 200, 200, 0.75),
+      rgba(155, 164, 164, 0.75)
+    )
 }
 .footerRow {
   display: flex;
