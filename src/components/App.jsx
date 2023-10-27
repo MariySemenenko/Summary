@@ -40,7 +40,7 @@ export const App = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="cardLink"
-                  href="https://enital.github.io/healthy_hub/"
+                  href="https://mariysemenenko.github.io/Group_project_Healthy_Hub/"
                 >
                   <img className="cardImg" src={healthy} alt="" />
                   <h3 className="cardTitle">Healthy Hub</h3>
