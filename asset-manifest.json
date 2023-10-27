@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Summary/static/css/main.74d76289.css",
-    "main.js": "/Summary/static/js/main.bbc3f6cf.js",
+    "main.js": "/Summary/static/js/main.f19589ec.js",
     "static/media/laptop.jpg": "/Summary/static/media/laptop.a2e9a643c9d210c132b1.jpg",
     "static/media/images.png": "/Summary/static/media/images.eb1737a9295066e946e1.png",
+    "static/media/projectAvto.png": "/Summary/static/media/projectAvto.b73338e5fd0d487d4040.png",
     "static/media/studio.png": "/Summary/static/media/studio.0caf852934a5190649cf.png",
-    "static/media/projectAvto.png": "/Summary/static/media/projectAvto.d30553f418195fb0750c.png",
     "static/media/book.png": "/Summary/static/media/book.d3b6d43e010d99fad9d4.png",
     "static/media/iceCream.png": "/Summary/static/media/iceCream.492679f91efdf01a1bec.png",
     "static/media/movies.png": "/Summary/static/media/movies.50bd83e5877cf02c636d.png",
@@ -18,10 +18,10 @@
     "static/media/github.svg": "/Summary/static/media/github.30660b0eadf424f52aad367f6a137af9.svg",
     "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.4ebc09ca2ab8df857a7e118834e83c66.svg",
     "main.74d76289.css.map": "/Summary/static/css/main.74d76289.css.map",
-    "main.bbc3f6cf.js.map": "/Summary/static/js/main.bbc3f6cf.js.map"
+    "main.f19589ec.js.map": "/Summary/static/js/main.f19589ec.js.map"
   },
   "entrypoints": [
     "static/css/main.74d76289.css",
-    "static/js/main.bbc3f6cf.js"
+    "static/js/main.f19589ec.js"
   ]
 }
