@@ -11,7 +11,7 @@ import clock from '../img/ressume/clock.png';
 import linkedin from '../img/footer/linkedin.svg';
 import github from '../img/footer/github.svg';
 import telegram from '../img/footer/telegram.svg';
-
+import buySell from '../img/ressume/buySell.png'
 export const App = () => {
   return (
     <>
@@ -35,6 +35,27 @@ export const App = () => {
           <div className="container">
             <h2 className="portfolioRessume">My Summary</h2>
             <ul className="cardList">
+
+            <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://xn--80a6abec.miy.link/?page_id=24"
+                >
+                  <img className="cardImg" src={buySell} alt="" />
+                  <h3 className="cardTitle">КупиПродай</h3>
+                  <p>[WordPress, HivePress, WooCommerce, LiteSpeed Cache]</p>
+                  <p>
+                  КупиПродай - це ваш власний віртуальний ринок, де ви можете знайти все,
+                   що вам потрібно або продати зайві речі. Незалежно від того,
+                    чи ви шукаєте товари, послуги, нерухомість чи нові можливості для бізнесу, 
+                    ми зробили все можливе, щоб забезпечити ваші потреби.
+                  </p>
+                </a>
+              </li>
+
+
               <li className="card">
                 <a
                   target="_blank"
