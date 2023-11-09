@@ -41,7 +41,7 @@ export const App = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="cardLink"
-                  href="https://xn--80a6abec.miy.link/?page_id=24"
+                  href="https://xn--80a6abec.miy.link/"
                 >
                   <img className="cardImg" src={buySell} alt="" />
                   <h3 className="cardTitle">КупиПродай</h3>
