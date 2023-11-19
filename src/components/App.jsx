@@ -11,7 +11,11 @@ import clock from '../img/ressume/clock.png';
 import linkedin from '../img/footer/linkedin.svg';
 import github from '../img/footer/github.svg';
 import telegram from '../img/footer/telegram.svg';
-import buySell from '../img/ressume/buySell.png'
+import buySell from '../img/ressume/buySell.png';
+import children from '../img/ressume/children.png';
+
+
+
 export const App = () => {
   return (
     <>
@@ -34,7 +38,28 @@ export const App = () => {
         <section className="portfolio" id="ressume">
           <div className="container">
             <h2 className="portfolioRessume">My Summary</h2>
+
+
             <ul className="cardList">
+              {/* -----------ChildrenSite-------------- */}
+
+            <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="http://localhost/Example2"
+                >
+                  <img className="cardImg" src={children} alt="" />
+                  <h3 className="cardTitle">ChildrenSite</h3>
+                  <p>[WordPress, MAMP, Contact Form 7, Classic Editor, Advanced Custom Fields, WP Google Map, Yoast SEO.]</p>
+                  <p>
+                  This baby store site is made locally and pinned on WordPress.
+                  </p>
+                </a>
+              </li>
+
+{/* -----------КупиПродай-------------------- */}
 
             <li className="card">
                 <a
@@ -55,6 +80,7 @@ export const App = () => {
                 </a>
               </li>
 
+{/* -----------Healthy---------------- */}
 
               <li className="card">
                 <a
