@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Summary/static/css/main.74d76289.css",
-    "main.js": "/Summary/static/js/main.5bf50dea.js",
+    "main.js": "/Summary/static/js/main.cb815628.js",
     "static/media/laptop.jpg": "/Summary/static/media/laptop.a2e9a643c9d210c132b1.jpg",
     "static/media/images.png": "/Summary/static/media/images.eb1737a9295066e946e1.png",
     "static/media/projectAvto.png": "/Summary/static/media/projectAvto.b73338e5fd0d487d4040.png",
@@ -10,6 +10,7 @@
     "static/media/buySell.png": "/Summary/static/media/buySell.d42da5e02e6c63e792d0.png",
     "static/media/iceCream.png": "/Summary/static/media/iceCream.492679f91efdf01a1bec.png",
     "static/media/movies.png": "/Summary/static/media/movies.50bd83e5877cf02c636d.png",
+    "static/media/children.png": "/Summary/static/media/children.d067b7036be679489ecc.png",
     "static/media/phonebook.png": "/Summary/static/media/phonebook.245c0f6cf8fb527ee3b6.png",
     "static/media/healthy.png": "/Summary/static/media/healthy.539973c407d927da8268.png",
     "static/media/clock.png": "/Summary/static/media/clock.03fb2e9ca1460bac533f.png",
@@ -19,10 +20,10 @@
     "static/media/github.svg": "/Summary/static/media/github.30660b0eadf424f52aad367f6a137af9.svg",
     "static/media/chevronDown.svg": "/Summary/static/media/chevronDown.4ebc09ca2ab8df857a7e118834e83c66.svg",
     "main.74d76289.css.map": "/Summary/static/css/main.74d76289.css.map",
-    "main.5bf50dea.js.map": "/Summary/static/js/main.5bf50dea.js.map"
+    "main.cb815628.js.map": "/Summary/static/js/main.cb815628.js.map"
   },
   "entrypoints": [
     "static/css/main.74d76289.css",
-    "static/js/main.5bf50dea.js"
+    "static/js/main.cb815628.js"
   ]
 }
