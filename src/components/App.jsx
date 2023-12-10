@@ -48,7 +48,7 @@ export const App = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="cardLink"
-                  href="http://localhost/Example2"
+                  href="https://dev-01.semenenko.pp.ua/"
                 >
                   <img className="cardImg" src={children} alt="" />
                   <h3 className="cardTitle">ChildrenSite</h3>
