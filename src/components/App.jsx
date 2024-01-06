@@ -62,7 +62,7 @@ export const App = () => {
 
 {/* -----------КупиПродай-------------------- */}
 
-            {/* <li className="card">
+            <li className="card">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -79,7 +79,7 @@ export const App = () => {
                     ми зробили все можливе, щоб забезпечити ваші потреби.
                   </p>
                 </a>
-              </li> */}
+              </li>
 
 {/* -----------Healthy---------------- */}
 
