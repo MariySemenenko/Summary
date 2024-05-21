@@ -13,6 +13,7 @@ import github from '../img/footer/github.svg';
 import telegram from '../img/footer/telegram.svg';
 import bike from '../img/ressume/bike.png';
 import children from '../img/ressume/children.png';
+import horse from '../img/ressume/horse.png';
 
 
 
@@ -42,6 +43,22 @@ export const App = () => {
 
             <ul className="cardList">
 
+{/* ----------------------horse------------------ */}
+            <li className="card">
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="cardLink"
+                  href="https://www.dev-05.semenenko.pp.ua/"
+                >
+                  <img className="cardImg" src={horse} alt="" />
+                  <h3 className="cardTitle">WorldHorse</h3>
+                  <p>[WordPress, Elementor, PRO Elements, Elementor Header & Footer Builder, GSAP.]</p>
+                  <p>
+                  The world of wonderful horses.
+                  </p>
+                </a>
+              </li>
               {/* -----------ChildrenSite-------------- */}
 
             <li className="card">
